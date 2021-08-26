@@ -6,4 +6,4 @@ Hello, I'm Floppa!
 I am a 13 year old novice coder/developer interested in game and mod development.
 I'm currently learning java, python and .html code.
 I'm looking to collaborate on game and mod development projects. 
-You can reach me by my discord, Floppa#2205.
+You can reach me by my Discord, Floppa#2205.
